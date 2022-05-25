@@ -259,5 +259,6 @@ SECCIÓN 4-5 Fuentes de potencia
 
 7.	BLIBIOGRAFÍA
 
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
 
 
