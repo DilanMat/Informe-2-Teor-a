@@ -34,8 +34,8 @@ PRINCIPIOS DE CIRCUITOS ELECTRICOS FLOYD
 1.	TEMA: Principios de circuitos eléctricos Floyd del capítulo tres y cuatro con ejercicios pares.
 
 2.	OBJETIVO:
-3.	
-4.1	OBJETIVO GENERAL: 
+
+2.1	OBJETIVO GENERAL: 
 
 Analizar y desarrollar el informe de la ley de ohm, energía y potencia para la comprensión de los fundamentos en la electrónica mediante el uso de herramientas de investigación y realización de ejercicios.
 
